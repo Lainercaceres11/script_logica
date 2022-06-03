@@ -1,6 +1,9 @@
 # script_logica
+
 Salida
+
 Estado con mayor acumulado: California
+
 Estado con menor acumulado: American Samoa
 
 Estado mas afectado California, porque fue el que tuvo mas contagios 
